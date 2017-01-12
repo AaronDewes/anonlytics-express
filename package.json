@@ -1,6 +1,6 @@
 {
   "name": "anonlytics-express",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Privacy respecting analytics for express apps",
   "main": "src/index.js",
   "dependencies": {
