@@ -26,7 +26,7 @@ module.exports = responseTime((req, res, time) => {
       url: req.headers.referer
     },
     express: {
-      route: req.route.path
+      route: req.route && req.route.path
     }
   };
 
